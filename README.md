@@ -21,3 +21,7 @@ This code takes the coordinates of a place, lattitude and longitude pair, as inp
 **utilceda.py**: Contains all the functions that are necessary for converting the satellite images to a Pandas dataframe, perform EDA as well as train models on the dataframes.
 
 **Results**: The results folder contains an example of the analysis for one set of cordinates. It also contains a comparison of model fit scores across regions across the world.   
+
+![coordinates_map](https://github.com/AbhaTaco/BiomassDensityPrediction/assets/125705055/26c88718-8954-4f4a-86e3-26050a3bca95)
+
+
